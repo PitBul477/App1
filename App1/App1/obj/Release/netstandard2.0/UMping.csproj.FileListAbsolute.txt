@@ -1,0 +1,14 @@
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\bin\Release\netstandard2.0\UMping.deps.json
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\bin\Release\netstandard2.0\UMping.dll
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\bin\Release\netstandard2.0\UMping.pdb
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.csproj.AssemblyReference.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\SettingsPage.xaml.g.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.AssemblyInfoInputs.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.AssemblyInfo.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.csproj.CoreCompileInputs.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.dll
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping\obj\Release\netstandard2.0\UMping.pdb

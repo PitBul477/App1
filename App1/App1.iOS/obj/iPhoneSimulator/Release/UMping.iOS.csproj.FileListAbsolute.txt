@@ -1,0 +1,13 @@
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\actool\_ProcessedImageAssetsPath.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\_ProcessedBundleResourcesPath.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\_ProcessedContentPath.items
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\UMping.iOS.csproj.AssemblyReference.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\UMping.iOS\obj\iPhoneSimulator\Release\UMping.iOS.csproj.CoreCompileInputs.cache

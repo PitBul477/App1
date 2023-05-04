@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage">
+
+    <StackLayout Padding="10,10,10,0">
+        <StackLayout Orientation="Horizontal" HorizontalOptions="EndAndExpand">
+            <ImageButton x:Name="EyeButton" Source="eye.png" Clicked="EyeButton_Clicked"  WidthRequest="30" HeightRequest="30" Aspect="AspectFit" BackgroundColor="Transparent">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup Name="CommonStates">
+                        <VisualState Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Source" Value="Resources/drawable/eye.png"/>
+                            </VisualState.Setters>
+                        </VisualState>
+                        <VisualState Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Source" Value="Resources/drawable/eye_crossed.png"/>
+                            </VisualState.Setters>
+                        </VisualState>
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+                <ImageButton.Triggers>
+                    <Trigger TargetType="ImageButton" Property="IsPressed" Value="True" />
+                </ImageButton.Triggers>
+            </ImageButton>
+            <ImageButton x:Name="SettingsButton" Source="Resources/drawable/settings.png" Clicked="SettingsButton_Clicked"  WidthRequest="30" HeightRequest="30" Aspect="AspectFit" BackgroundColor="Transparent"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Entry x:Name="Entry" Placeholder="Никнейм" HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="Button" Text="ОК" Clicked="Button_Clicked" WidthRequest="100" HeightRequest="50"/> 
+        </StackLayout>
+        <Button x:Name="Button2" Text="ОТВЕТ" IsEnabled="false" Clicked="Button2_Clicked" HeightRequest="150"/>
+        <Label x:Name="Label"></Label>
+    </StackLayout>
+
+</ContentPage>

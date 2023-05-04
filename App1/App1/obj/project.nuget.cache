@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqHbXMZPiwaD4Gq01QmErj8LsrvGAhfEKzBsMgdraonJi4J7M3Hr7J/Gx+NtWA2DJEgnIZ6TPtPn8+25PYkxgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tpa.admin\\RiderProjects\\App1\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpa.admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tpa.admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tpa.admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

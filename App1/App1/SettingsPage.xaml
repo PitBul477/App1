@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.SettingsPage">
+    <ContentPage.Content>
+        <StackLayout Padding="10,10,10,10">
+            <Label Text="Введите IP адрес и порт" FontSize="Large" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+            <Entry x:Name="IP" Placeholder="xxx.xxx.xxx.xxx"/> <Entry x:Name="Ports" Placeholder="xxxxx"/>
+            <Button x:Name="Button" Text="Применить адрес" Clicked="Button_Clicked"/> 
+            <Button x:Name="Button2" Text="Адрес по-умолчанию" Clicked="Button2_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

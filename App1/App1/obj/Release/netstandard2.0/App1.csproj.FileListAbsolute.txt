@@ -1,0 +1,14 @@
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\bin\Release\netstandard2.0\App1.deps.json
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\bin\Release\netstandard2.0\App1.dll
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\bin\Release\netstandard2.0\App1.pdb
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.dll
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\App1.pdb
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1\obj\Release\netstandard2.0\SettingsPage.xaml.g.cs
