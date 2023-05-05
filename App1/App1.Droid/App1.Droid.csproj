@@ -15,6 +15,7 @@
         <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
         <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
         <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
+        <AndroidBuildApplicationPackage>true</AndroidBuildApplicationPackage>
         <TargetFrameworkVersion>v12.0</TargetFrameworkVersion>
         <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     </PropertyGroup>

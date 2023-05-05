@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace App1.Droid
 {
-    [Activity(Label = "App1", Theme = "@style/MainTheme", MainLauncher = true,
+    [Activity(Label = "Угадай Мелодию Пинг", Theme = "@style/MainTheme", MainLauncher = true,
         ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {

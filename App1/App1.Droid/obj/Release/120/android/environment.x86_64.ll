@@ -81,7 +81,7 @@ target triple = "x86_64-unknown-linux-android"
 @__app_environment_variables_n_1.2 = internal constant [15 x i8] c"MONO_GC_PARAMS\00", align 1
 @__app_environment_variables_v_1.3 = internal constant [16 x i8] c"major=marksweep\00", align 16
 @__app_environment_variables_n_2.4 = internal constant [17 x i8] c"XAMARIN_BUILD_ID\00", align 16
-@__app_environment_variables_v_2.5 = internal constant [37 x i8] c"4cc46463-5cfa-4839-a084-d6d2dd4fa4fa\00", align 16
+@__app_environment_variables_v_2.5 = internal constant [37 x i8] c"1e3cf0c2-9466-4e6e-bcfb-1e2a9cf9938a\00", align 16
 @__app_environment_variables_n_3.6 = internal constant [28 x i8] c"XA_HTTP_CLIENT_HANDLER_TYPE\00", align 16
 @__app_environment_variables_v_3.7 = internal constant [41 x i8] c"Xamarin.Android.Net.AndroidClientHandler\00", align 16
 @__app_environment_variables_n_4.8 = internal constant [16 x i8] c"XA_TLS_PROVIDER\00", align 16
@@ -106,7 +106,7 @@ target triple = "x86_64-unknown-linux-android"
 
 ; app_system_properties
 @app_system_properties = local_unnamed_addr constant [0 x i8*] zeroinitializer, align 8
-@__ApplicationConfig_android_package_name.0 = internal constant [21 x i8] c"COM.COMPANYNAME.APP1\00", align 16
+@__ApplicationConfig_android_package_name.0 = internal constant [14 x i8] c"UMping.UMping\00", align 1
 
 ; application_config
 @application_config = local_unnamed_addr constant %struct.ApplicationConfig {
@@ -135,7 +135,7 @@ target triple = "x86_64-unknown-linux-android"
 	i32 0, ; jni_remapping_replacement_type_count
 	i32 0, ; jni_remapping_replacement_method_index_entry_count
 	i32 0, ; mono_components_mask
-	i8* getelementptr inbounds ([21 x i8], [21 x i8]* @__ApplicationConfig_android_package_name.0, i32 0, i32 0); android_package_name
+	i8* getelementptr inbounds ([14 x i8], [14 x i8]* @__ApplicationConfig_android_package_name.0, i32 0, i32 0); android_package_name
 }, align 8
 
 @__DSOCacheEntry_name.1 = internal constant [18 x i8] c"libmono-native.so\00", align 16
