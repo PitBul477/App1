@@ -4,6 +4,11 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <RootNamespace>App1</RootNamespace>
         <AndroidBuildApplicationPackage>true</AndroidBuildApplicationPackage>
+        <PackageId>UMping</PackageId>
+        <Version>1.0.1</Version>
+        <Title>Угадай Мелодию Пинг</Title>
+        <Authors>PitBul477</Authors>
+        <Copyright>PitBul477</Copyright>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

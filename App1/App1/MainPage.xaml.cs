@@ -10,9 +10,12 @@ namespace App1
         private string _nickname;
         private string _ipAddress = "92.124.142.200";
         private int _port = 12345;
+        private bool isEyeCrossed;
+
         public MainPage()
         {
             InitializeComponent();
+            isEyeCrossed = false;
         }
 
         private void Button2_Clicked(object sender, EventArgs e)
@@ -25,19 +28,20 @@ namespace App1
         {
             try
             {
-            if (Entry.Text.Length > 0)
-            {
-                _nickname = Entry.Text;
-                Button2.IsEnabled = true;
-                Entry.IsEnabled = false;
-                Label.IsVisible = false;
-                Button.Focus();
+                if (Entry.Text.Length > 0)
+                {
+                    _nickname = Entry.Text;
+                    Button2.IsEnabled = true;
+                    Entry.IsEnabled = false;
+                    Label.IsVisible = false;
+                    Button.Focus();
+                }
+                else
+                {
+                    DisplayAlert("Ошибка", "НИК НЕ ВВЕДЁН", "OK");
+                }
             }
-            else
-                DisplayAlert("Ошибка", "НИК НЕ ВВЕДЁН", "OK");
-        }
-
-        catch (Exception ex)
+            catch (Exception ex)
             {
                 Label.Text = $"Error: {ex.Message}";
                 Label.IsVisible = true;
@@ -48,7 +52,6 @@ namespace App1
         {
             try
             {
-                //IPAddress ipAddress = IPAddress.Parse("127.0.0.1");
                 IPAddress ipAddress = IPAddress.Parse(_ipAddress);
                 Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                 socket.Connect(new IPEndPoint(ipAddress, _port));
@@ -69,16 +72,26 @@ namespace App1
                 Label.IsVisible = true;
             }
         }
+
         private void EyeButton_Clicked(object sender, EventArgs e)
         {
+            if (isEyeCrossed)
+            {
+                EyeButton.Source = "eye.png";
+            }
+            else
+            {
+                EyeButton.Source = "eye_crossed.png";
+            }
             Label.IsVisible = !Label.IsVisible;
+            isEyeCrossed = !isEyeCrossed;
         }
 
         private async void SettingsButton_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new SettingsPage(this));
         }
-        
+
         public void SetIP(string ipAddress, int port)
         {
             _ipAddress = ipAddress;

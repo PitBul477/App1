@@ -1142,17 +1142,17 @@
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "UMping/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "5.0.0.2012"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/UMping.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/UMping.dll": {}
         }
       }
     }
@@ -2200,7 +2200,7 @@
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
     },
-    "App1/1.0.0": {
+    "UMping/1.0.1": {
       "type": "project",
       "path": "../App1/App1.csproj",
       "msbuildProject": "../App1/App1.csproj"
@@ -2208,7 +2208,7 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v12.0": [
-      "App1 >= 1.0.0",
+      "UMping >= 1.0.1",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
   },

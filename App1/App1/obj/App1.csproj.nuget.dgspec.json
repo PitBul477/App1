@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\tpa.admin\\RiderProjects\\App1\\App1\\App1\\App1.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\tpa.admin\\RiderProjects\\App1\\App1\\App1\\App1.csproj",
-        "projectName": "App1",
+        "projectName": "UMping",
         "projectPath": "C:\\Users\\tpa.admin\\RiderProjects\\App1\\App1\\App1\\App1.csproj",
         "packagesPath": "C:\\Users\\tpa.admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tpa.admin\\RiderProjects\\App1\\App1\\App1\\obj\\",

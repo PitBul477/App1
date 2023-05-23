@@ -1,5 +1,10 @@
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\App1.Droid.dll
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\App1.Droid.pdb
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping.apk
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping.aab
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping-Signed.aab
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping-Signed.apk
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping-Signed.apk.idsig
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\App1.dll
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\App1.pdb
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
@@ -30,7 +35,10 @@ C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\App1.Droid
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\App1.Droid.csproj.CopyComplete
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\App1.Droid.dll
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\App1.Droid.pdb
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\UMping.UMping.apk
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\base.zip
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\UMping.UMping.aab
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\UMping.UMping.apks
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\res\drawable\eye.png
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\res\drawable\eye_crossed.png
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\res\drawable\icon.png
@@ -390,6 +398,7 @@ C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\sr
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\packaged_resources
+C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\src\umping\umping\R.java
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\compressed_assemblies.arm64-v8a.ll
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\compressed_assemblies.armeabi-v7a.ll
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\compressed_assemblies.x86.ll
@@ -427,12 +436,3 @@ C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\stamp\_Con
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping.apk
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping.aab
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping-Signed.aab
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping-Signed.apk
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\bin\Release\UMping.UMping-Signed.apk.idsig
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\UMping.UMping.apk
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\UMping.UMping.aab
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\bin\UMping.UMping.apks
-C:\Users\tpa.admin\RiderProjects\App1\App1\App1.Droid\obj\Release\120\android\src\umping\umping\R.java
